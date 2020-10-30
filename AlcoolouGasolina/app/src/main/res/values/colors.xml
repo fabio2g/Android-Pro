@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#DE4C3C</color>
+    <color name="colorPrimaryDark">#234933</color>
+    <color name="colorAccent">#EDA927</color>
+    <color name="fundo_appgasolina">#323232</color>
+    <color name="color_twiter">#02101D</color>
+    <color name="azul_twitter">#EDA927</color>
+    <color name="color_new_fundo1">#B8B7B3</color>
+</resources>
